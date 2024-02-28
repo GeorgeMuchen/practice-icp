@@ -6,4 +6,4 @@ RUN apt-get install libunwind8
 COPY ./project /project
 WORKDIR /project
 RUN dfx generate
-RUN npm i
+RUN npm l
