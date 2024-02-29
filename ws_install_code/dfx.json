@@ -13,13 +13,13 @@
     "backend_1_gzip": {
       "gzip": true,
       "candid": "src/backend_1/interface.did",
-      "package": "backend_1",
+      "package": "backend-1",
       "type": "rust"
     },
     "backend_2_gzip": {
       "gzip": true,
       "candid": "src/backend_2/interface.did",
-      "package": "backend_2",
+      "package": "backend-2",
       "type": "rust"
     },
     "manager": {
